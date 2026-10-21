@@ -1,0 +1,221 @@
+P{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div1{
+    width: 100vw;
+    height: 90vh;
+    background-image: url(background.1.jpg);
+    background-size: (1000px,100vh);
+    background-position: center center;
+background-size: max(1200px,100vw);
+background-repeat: no-repeat;
+position: relative;
+    
+}
+.cover{
+    background-color: black;
+    width: 100vw;
+    height: 90vh;
+    opacity: 0.8;
+}
+.nav{
+    height: 80px;
+    width: 80vw;
+    margin: auto;
+    justify-content: space-between;
+    background: transparent;
+    display: flex;
+    
+}
+
+.nav h1{
+    padding-bottom: 10px;
+    color: red;
+    display: inline;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 10;
+    
+}
+.lang{
+    height:30px ;
+    width: 90px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 700px;
+    border: 2px solid whitesmoke;
+    background: transparent;
+    position: relative;
+    z-index: 10;
+}
+.logo img{
+height: 40px;
+width: 150px;
+color: red;
+margin-left: 0px;
+background-color: transparent;
+position: relative;
+z-index: 9;
+}
+.logo2{
+    width: 75px;
+height: 35px;
+margin-top: 10px;
+color: white;
+font-weight: 700;
+background-color: red;
+position: relative;
+z-index: 9;
+}
+.logo1{
+width: 120px;
+height: 35px;margin-top: 10px;
+color: white;
+font-weight: 700;
+border: 2px solid gray;
+background: transparent;
+}
+.logo{
+    margin: 20px;
+}
+.con{
+    position: relative;
+    
+    
+    z-index: 10;
+color: white;
+margin-left: 200px;
+width: 70vw;
+margin-top: 80px;
+}
+.con h1{
+    color: white;
+    font-weight: bolder;
+padding-left: 150px;
+margin-bottom: 0;
+padding-bottom: 0;
+font-size: 3rem;
+}
+.con pre{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: 0;
+}
+.con p{
+    color: silver;
+    padding-left: 240px;
+    font-size: 1.2rem;
+}
+.con span{
+    color: silver;
+    padding-left: 180px;
+    font-size: 1.2rem;
+}
+.input{
+    padding-left: 30px;
+color: silver;
+font-size:1rem;
+font-weight: 700;
+margin-top: 10px;
+background: transparent;
+position: relative;
+z-index: 10;
+border: 1px solid rgba(112, 128, 144, 0.39);
+margin-left: 120px;
+padding-left: 0;
+height: 40px;
+width: 350px;
+
+}
+.getstart{
+font-weight: bolder;
+color: white;
+margin-left: 0px;
+padding-left: 0px;
+margin-top: 10px;
+background-color: red;
+position: relative;
+z-index: 10;
+height: 40px;
+width: 200px;
+}
+.cover hr{
+    margin-top: 151px;
+border: 2px solid red;
+
+}
+\\\\\\\\\\
+.class{
+height: 400px;
+width: 100%;
+display: flex;
+border: 2px springgreen;
+background-color: red;
+}
+.block{
+    background-color: rgb(12, 12, 12);
+    height: 250px;
+    width: 100vw;display: flex;
+    margin-top: 2px;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.box1{
+    height: 230px;
+    width: 180px;
+    background-image: url(raid2.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 4px;
+    border: 0.2rem solid white;
+}
+.box2{
+    height: 230px;
+    width: 180px;
+    background-image:url(wednesday.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    
+    border-radius: 4px;
+    border: 0.2rem solid white;
+}
+.box3{
+    height: 230px;
+    width: 180px;
+    background-image: url(sayara.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    
+    border-radius: 4px;
+    border: 0.2rem solid white;
+}
+.box4{
+    height: 230px;
+    width: 180px;
+    background-image: url(squid.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 4px;
+    border: 0.2rem solid white;
+}
+.box5{
+    height: 230px;
+    width: 180px;
+    background-image: url(kapil.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 4px;
+    border: 0.2rem solid white;
+}
+.box6{
+    height: 230px;
+    width: 180px;
+    background-image: url(inspector.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 4px;
+    border: 0.2rem solid white;
+}
